@@ -1,0 +1,8 @@
+numpy
+torch-summary
+Pillow
+opencv-contrib-python
+pandas
+scikit-learn
+matplotlib
+seaborn
