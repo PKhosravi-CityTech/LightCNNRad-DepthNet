@@ -2,7 +2,7 @@
 
 ## About the Project
 
-In this project, we introduce two CNN architectures, **LightCnnRad** and **DepthNet**, designed to optimize computational efficiency while maintaining high performance. These novel architectures are tailored specifically for radiological image analysis. Key highlights include:
+In this project, we introduce two CNN architectures, **LightCNNRad** and **DepthNet**, designed to optimize computational efficiency while maintaining high performance. These novel architectures are tailored specifically for radiological image analysis. Key highlights include:
 
 - **Performance:** Comparable performance to the more complex pre-trained VGG-16 models.
 - **Efficiency:** Significant reductions in computational complexity.
@@ -12,10 +12,31 @@ Our findings demonstrate that simpler architectures can achieve competitive perf
 
 ## Usage
 
-**LightCnnRad** and **DepthNet** can be employed in clinical settings to analyze a wide range of medical images, from MRI to Ultrasound. These algorithms are implemented using the PyTorch framework. To use these models, please ensure that you have:
+**LightCNNRad** and **DepthNet** can be employed in clinical settings to analyze a wide range of medical images, from MRI to Ultrasound. These algorithms are implemented using the PyTorch framework. To use these models, please ensure that you have:
 
 1. Installed the PyTorch framework.
 2. Installed other required Python libraries.
+
+## Installation
+
+Pytorch framework is used for the implementation of LightCNNRad and DepthNet. For installing Pytorch an Torchvision (with CUDA v. 12.1) you can either visit [Pytorch website](https://pytorch.org/get-started/locally/) for installing it on a specific OS or run the following command in windows command prompt:
+
+```bash
+# Installing Pytorch
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+In order to install the required packages, you will first need to install and upgrade 'pip' via this command:
+
+```bash
+python -m pip install --upgrade pip
+```
+
+Execute the following command to install the required packages:
+
+```bash
+pip install -r required_packages.txt
+```
+***Note***: please ensure that you have downloaded the "required_packages.txt" before running the above command.  
 
 ## Contribution
 
