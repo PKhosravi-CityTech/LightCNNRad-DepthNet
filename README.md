@@ -40,7 +40,7 @@ pip install -r required_packages.txt
 
 ## Contribution
 
-This project was supervised by **Dr. Pegah Khosravi** at the  [**BioMind AI lab**](https://sites.google.com/view/biomind-ai-lab). The following authors have contributed to this project:
+This project was supervised by [**Dr. Pegah Khosravi**](https://scholar.google.com/citations?hl=en&user=lHM6ZCwAAAAJ) at the  [**BioMind AI lab**](https://sites.google.com/view/biomind-ai-lab). The following authors have contributed to this project:
 
 - Saber Mohammadi
 - Abhinita S. Mohanty
