@@ -19,7 +19,7 @@ Our findings demonstrate that simpler architectures can achieve competitive perf
 
 ## Installation
 
-Pytorch framework is used for the implementation of LightCNNRad and DepthNet. For installing Pytorch an Torchvision (with CUDA v. 12.1) you can either visit [Pytorch website](https://pytorch.org/get-started/locally/) for installing it on a specific OS or run the following command in windows command prompt:
+Pytorch framework is used for the implementation of LightCNNRad and DepthNet. To install PyTorch and TorchVision (with CUDA v. 12.1), you can either visit the [Pytorch website](https://pytorch.org/get-started/locally/) to install it on a specific OS or run the following command in the Windows command prompt:
 
 ```bash
 # Installing Pytorch
