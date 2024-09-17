@@ -60,4 +60,4 @@ This project was supervised by [**Dr. Pegah Khosravi**](https://scholar.google.c
 
 When referencing this repository, please use the following citation format:
 
-**S. Mohammadi et al., "Beyond Algorithms: The Impact of Simplified CNN Models and Multifactorial Influences on Radiological Image Analysis," 2024**
+**S. Mohammadi et al., "Beyond Algorithms: The Impact of Simplified CNN Models and Multifactorial Influences on Radiological Image Analysis," MedRxiv, 2024, doi: https://doi.org/10.1101/2024.09.15.24313585, **
