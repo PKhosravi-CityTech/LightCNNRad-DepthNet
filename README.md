@@ -1,4 +1,4 @@
-# LightCNNRad-DepthNet
+# LightCnnRad-DepthNet
 
 ## About the Project
 
